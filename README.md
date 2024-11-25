@@ -6,7 +6,7 @@
       <ul>
         <li>Hey there, I am <strong>Sarkahn A.M</strong></li>
         <li>I’m a <em>Solo Indie Game Developer, Fantasy Author,</em> and a <em>Freelance Technical Writer</em></li>
-        <li>I have a <a href="https://sarkahnam.github.io/">Dev Log</a> where you can find a lot of my dev notes for the game I am developing.</li>
+        <li>I have a <a href="https://sarkahnam.github.io/">Dev Log</a> where you can find a lot of my dev notes for the games I am developing.</li>
       </ul>
       <h4>Connect with me:</h4>
       <a href="mailto:sarkahn.am@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/new-post.png"/></a>
