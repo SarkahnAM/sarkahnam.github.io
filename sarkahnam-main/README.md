@@ -1,0 +1,1 @@
+# My Indie Author Website is a template because design is not my strength, however it is a work in progress that I am attempting to rework from the previous CMS website I previously owned. Personal domain link will be added once finished. 
