@@ -5,14 +5,12 @@
     <td>
       <ul>
         <li>Hey there, I am <strong>Sarkahn A.M</strong></li>
-        <li>I’m a <em>Fiction Fantasy Writer and Author of short Science Fiction Fantasy</em>(SFF).</li>
-        <li>I am currently serializing my original debut novelette <em>Arcane Thief</em> and expanding on it. You can find the story here on <a href="https://www.royalroad.com/author-dashboard/dashboard/113229">Royal Road</a> where you can follow each chapter I release <em>for free</em> on a weekly basis. If you check it out, it would mean a lot if you could leave a rating and tell me what you think as the story continues to develop.</li>
+        <li>I’m a <em>Genre Fiction Writer</em>.</li>
+        <li>I am currently serializing my <em>Arcane Thief</em> story as well as <em>Equivalent Exchange</em> and expanding upon both of them. You can find the story here on <a href="https://www.royalroad.com/author-dashboard/dashboard/113229">Royal Road</a> where you can follow each chapter I release <em>for free</em> on a weekly basis. If you check it out, it would mean a lot if you could leave a rating and tell me what you think as the story continues to develop.</li>
       </ul>
-      <h4>Connect with me:</h4>
-      <a href="mailto:sarkahn.am@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/new-post.png"/></a>
-      <a href="https://sarkahnam.github.io/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
-      <a href="https://twitter.com/SarkahnAm"><img src="https://img.icons8.com/dusk/40/000000/twitter.png"/></a>
-    </td>
+      <h4>You can connect with me directly through <a href="https://www.royalroad.com/author-dashboard/dashboard/113229">Royal Road</a>.</h4>
+
+
   </tr>
   <tr>
     <td align="center" colspan="2">
@@ -23,6 +21,7 @@
 </table>
 
 ------
+
 
 
 
